@@ -1522,3 +1522,6 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.12.11-18.33.56:361][ 61]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1012.718811
 [2025.12.11-18.33.57:362][ 63]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.12.11-18.33.57:362][ 63]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1013.385376, Update Interval: 324.416016
+[2025.12.11-18.39.33:381][ 71]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1349.738770
+[2025.12.11-18.39.34:381][ 74]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.11-18.39.34:381][ 74]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1350.405151, Update Interval: 345.644104
