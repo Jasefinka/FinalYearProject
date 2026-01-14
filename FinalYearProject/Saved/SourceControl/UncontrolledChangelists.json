@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/FinalYearProject/FinalYearProject/Content/Tint_Shader.uasset",
+				"D:/FinalYearProject/FinalYearProject/Content/Tint_Shader_Inst.uasset",
+				"D:/FinalYearProject/FinalYearProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/MV/2U2IE6JXO1320Q32RJQKSE.uasset",
+				"D:/FinalYearProject/FinalYearProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/KL/UYSRPQ5SOYIFVLEQINPH31.uasset",
+				"D:/FinalYearProject/FinalYearProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/F/4G/TYFCMQ9MC435YW6FZBF5FS.uasset",
+				"D:/FinalYearProject/FinalYearProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/E/96/RFQP83S9K0LC7IW8CXS6C0.uasset",
+				"D:/FinalYearProject/FinalYearProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/FK/43IFSVASUSS9TMTW1CUQH4.uasset"
+			]
+		}
+	]
+}
